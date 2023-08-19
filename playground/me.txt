@@ -1,5 +1,0 @@
-{{#user}}
-Name: Bhaskar Karol
-Skills: Python, Numpy, Pandas, Matplotlib, Seaborn, SymPy, Scipy
-Email: Karol90.bhaskar@gmail.com
-{{/user}}
